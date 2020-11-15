@@ -1,4 +1,4 @@
-# 6 kyu
+**6 kyu**
 # Maze Runner
 
 # Introduction
