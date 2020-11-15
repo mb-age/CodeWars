@@ -1,4 +1,4 @@
-7 kyu
+**7 kyu**
 # Turkish Numbers, 0-99
 # Your Task
 Complete the function to convert an integer into a string of the Turkish name.
