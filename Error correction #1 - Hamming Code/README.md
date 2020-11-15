@@ -27,6 +27,7 @@ Check if any errors happened and correct them. Errors will be only bit flips, an
 
 - `111` --> `101` : this can and will happen
 - `111` --> `11` : this cannot happen
+
 **Note**: the length of the input string is also always divisible by 24 so that you can convert it to an ASCII value.
 
 Steps:
