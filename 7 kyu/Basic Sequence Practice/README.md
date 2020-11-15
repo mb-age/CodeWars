@@ -9,6 +9,7 @@ In this kata, we will be using a more complicated sequence: `0, 1, 3, 6, 10, 15,
 ```
 # Your Task
 Complete the function that takes an integer `n` and returns a list/array of length `abs(n) + 1` of the arithmetic series explained above. 
+
 When `n < 0` return the sequence with negative terms.
 
 # Examples
