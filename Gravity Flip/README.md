@@ -14,7 +14,7 @@ There are some columns of toy cubes in the box arranged in a line. The `i-th` co
 |   ||   ||   ||   |         |   ||   ||   ||   |
 +---++---++---++---+         +---++---++---++---+
 ```
-Given the initial configuration of the cubes in the box, find out how many cubes are in each of the ~`n` columns after Bob switches the gravity.
+Given the initial configuration of the cubes in the box, find out how many cubes are in each of the `n` columns after Bob switches the gravity.
 
 Examples:
 ```
