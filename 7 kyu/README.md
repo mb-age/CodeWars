@@ -1,2 +1,1 @@
-# CodeWars
-# Level 7 kyu
+# 7 kyu level of CodeWars
